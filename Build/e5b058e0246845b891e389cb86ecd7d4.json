@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D Game Kit",
+"dataUrl": "c3308e22214d86ecaa8a7aa43c60b5fa.unityweb",
+"wasmCodeUrl": "5026e2c0381ecbc9a08ebc13e7cd05f4.unityweb",
+"wasmFrameworkUrl": "712272e15064dbf8ba3e74524391b858.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
